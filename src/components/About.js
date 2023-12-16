@@ -9,7 +9,7 @@ const About = () => {
           MEMORIES APP
         </Typography>
         <Typography sx={{ fontFamily: "fantasy" }} variant="P">
-          By MERN STACK
+          using MERN 
         </Typography>
       </Box>
     </div>
